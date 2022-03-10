@@ -8,7 +8,9 @@ public class Demo
 	public void demo()
 	{
 		System.out.println("User 1");
-		System.out.println(" User 2");
+		
+		System.out.println(" this is aishu");
+		
 	}
 
 }
