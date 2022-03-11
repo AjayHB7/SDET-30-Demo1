@@ -11,6 +11,9 @@ public class Demo
 		
 		System.out.println(" this is aishu");
 		
+		
+		System.out.println("this is another");
+		
 	}
 
 }
